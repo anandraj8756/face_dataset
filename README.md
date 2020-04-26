@@ -14,17 +14,31 @@ OUTPUT1:
    
    <image src ="output3.png">
    
- AFTER PRESSING THE k key then it will store the person pic in the folder.<br>  
+ AFTER PRESSING THE k key then it will store the person pic in the folder.
+ <br>  
+ 
    OUTPUT4:
-   <image src ="output4.png">
+   <br>
+  He is my small brother:
+  
+  <br>
+  
+   <image src ="output7.png">
+  
   <br> 
   
   OUTPUT ERROR:
+  <br>
+  
    <image src ="error_output.png">
   
   <br>
   
   SOLVE_OUTPUT_ERROR:
+  Install the Library: opencv-contrib-python
+  
+  <br>
   
    <image src ="solve_error.png">
-
+<br>
+  DONE!
