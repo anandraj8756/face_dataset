@@ -36,6 +36,8 @@ OUTPUT1:
   
   SOLVE_OUTPUT_ERROR:
   Install the Library: opencv-contrib-python
+  AFTER THAT IT WILL WORK FINE!
+
   
   <br>
   
